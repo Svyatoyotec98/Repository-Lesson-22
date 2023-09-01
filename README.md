@@ -1,3 +1,3 @@
 # Rubyschool Lesson 22
 ======================
-Repository for Lesson22
+Repository for Lesson 22
